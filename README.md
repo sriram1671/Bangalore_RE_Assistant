@@ -28,3 +28,12 @@ Description
 
 **Google Sheet Preview**
 ![image](https://github.com/user-attachments/assets/1c33fb8f-dba9-455e-a475-190eca262c39)
+
+The Realtor can be more effective in analysing and catering to his clients needs by using the information in the google sheets and do efficient follow-ups.
+
+### Whats next?
+
+**Analysis of Sales calls:**  
+Leveraging LLMs to Analyse the calls and extract engagement levels, tract metrics, win/loss reasons and summarization of conversations.  
+**Direct Call Integration:**  
+Skip the upload step by integrating with call systems for real-time transcription and data capture.
