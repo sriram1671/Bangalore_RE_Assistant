@@ -1,0 +1,7 @@
+gradio
+openai
+openai-whisper
+torch
+gspread
+oauth2client
+transformers
